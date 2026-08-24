@@ -5,4 +5,4 @@
 3. Qual seria a próxima etapa necessária para transformar esse pipeline em continuous deployment?
  Criar um Job que direcione esse código para algum servidor como Azure, AWS etc.
 
-https://github.com/FelipeAndL/pipeline_ci-cd/actions/runs/32788306491/artifacts/9542232819
+https://github.com/adrianonf/pipeline_ci-cd/actions/runs/32790693123/artifacts/9543012843
