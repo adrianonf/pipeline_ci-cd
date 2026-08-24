@@ -10,4 +10,4 @@ def test_dividir():
   assert dividir(10, 2) == 5
 def test_divisao_por_zero():
   with pytest.raises(ValueError):
-dividir(10, 0)
+    dividir(10, 0)
